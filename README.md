@@ -1,3 +1,10 @@
+<!-- Banner -->
+<p align="center">
+  <img src="WhatsApp Image 2026-01-29 at 12.33.19 PM.jpeg" width="100%" alt="Profile Banner">
+</p>
+
+<hr>
+
 <h1 align="center">I'm Ashabul Yeamin Musfir</h1>
 <h3 align="center">Currently pursuing my bachelors degree in AI and Data Science at Green university of Bangladesh.</h3>
 
