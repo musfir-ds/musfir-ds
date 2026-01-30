@@ -22,3 +22,4 @@ Currently pursuing my bachelors degree in <b>Artificial Intelligence and Data Sc
   <li>More UI/UX Work</li>
 </ul>
 
+nuihonono
