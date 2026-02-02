@@ -21,4 +21,4 @@ Currently pursuing my bachelors degree in <b>Artificial Intelligence and Data Sc
   <li>Web Development using Python</li>
   <li>More UI/UX Work</li>
 </ul>
-12
+
